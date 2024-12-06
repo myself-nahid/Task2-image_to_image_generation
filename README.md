@@ -7,8 +7,6 @@ This repository contains a stable diffusion costumed pipeline for generating ima
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Image-to-image generation is a challenging task that involves generating new images based on existing ones. This project focuses on developing a stable diffusion costumed pipeline for image generation. By utilizing diffusion models and other techniques, the pipeline provides a reliable and effective approach to generate high-quality images from given input images.
